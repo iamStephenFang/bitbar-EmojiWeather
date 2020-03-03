@@ -1,0 +1,24 @@
+{
+  "name": "emojiweather",
+  "version": "1.0.0",
+  "description": "Emoji Weather App In BitBar",
+  "main": "BitWeather.1h.js",
+  "dependencies": {
+    "bitbar": "^1.3.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "/usr/local/bin/node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamStephenFang/bitbar-EmojiWeather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamStephenFang/bitbar-EmojiWeather/issues"
+  },
+  "homepage": "https://github.com/iamStephenFang/bitbar-EmojiWeather#readme"
+}
