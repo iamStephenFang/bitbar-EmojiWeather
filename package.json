@@ -4,8 +4,9 @@
   "description": "Emoji Weather App In BitBar",
   "main": "BitWeather.1h.js",
   "dependencies": {
+    "axios": "^0.19.2",
     "bitbar": "^1.3.0",
-    "request": "^2.88.2"
+    "dotenv": "^8.2.0"
   },
   "devDependencies": {},
   "repository": {
